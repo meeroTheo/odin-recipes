@@ -1,0 +1,20 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.container {
+    color: white
+}
+
+#title {
+    color: brown
+}
+
+#desc {
+    color: brown;
+}
+
+ul {
+    font-size: 22px;
+    color: rgb(104, 195, 104);
+}
