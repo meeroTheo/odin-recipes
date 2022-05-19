@@ -1,0 +1,26 @@
+body {
+    background-color: #1e1e1e;
+}
+
+.container {
+    color: white
+}
+
+#title {
+    color: rgb(250, 103, 5)
+}
+
+#desc {
+    color: rgb(250, 103, 5);
+
+}
+
+mark.red {
+    color: red;
+    background-color: #1e1e1e;
+}
+
+ul {
+    font-size: 22px;
+    color: rgb(104, 195, 104);
+}
